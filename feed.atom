@@ -1,10 +1,134 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-26T01:13:21.239Z</id>
+    <id>urn:2022-01-27T01:07:02.226Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-26T01:13:21.239Z</updated>
+    <updated>2022-01-27T01:07:02.226Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs]]></title>
+        <id>61f03606f2ed6b06db5a5067</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-full-stack-application-with-tailwind-css-and-supabase-in-nextjs/"/>
+        <updated>2022-01-26T23:03:34.000Z</updated>
+        <summary type="html"><![CDATA[Serverless databases are all the rage these days. They allow you to develop a fully functional app without building a server or writing server code. A serverless database is a cloud computing solution that lets you distribute and flexibly manage your resources. In this tutorial, we'll build a full-stack application]]></summary>
+        <author>
+            <name>Idris Olubisi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP Request Methods – Get vs Put vs Post Explained with Code Examples]]></title>
+        <id>61ee3dc2011f8933034719ea</id>
+        <link href="https://www.freecodecamp.org/news/http-request-methods-explained/"/>
+        <updated>2022-01-26T21:36:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, we'll be discussing the get, put, and post HTTP methods. You'll learn what each HTTP method is used for as well as why we use them.  In order to get a deep understanding of how HTTP methods work, I'll also go over key context and background]]></summary>
+        <author>
+            <name>Camila Ramos Garzon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML and CSS Project – How to Build A YouTube Clone Step by Step]]></title>
+        <id>61ebe09f011f8933034705df</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-website-with-html-and-css-step-by-step/"/>
+        <updated>2022-01-26T21:32:57.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial we will build a YouTube clone step by step. You'll learn how to create layouts and add content to those layouts. If you have been struggling to build a real website with HTML & CSS, this is the article for you. Because I am about to teach]]></summary>
+        <author>
+            <name>Ogundiran Ayobami</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binary Search Tree Traversal – Inorder, Preorder, Post Order for BST]]></title>
+        <id>61d55c59d2d9de084285c367</id>
+        <link href="https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/"/>
+        <updated>2022-01-26T20:01:40.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you will learn what a binary search tree is, what parts make up a tree, and some of the common terms we use when describing parts of a tree.  We will also see how to traverse a tree using some of the common algorithms – all]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Think Less About Data Visualization]]></title>
+        <id>61eb23e4011f893303470169</id>
+        <link href="https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/"/>
+        <updated>2022-01-26T19:57:11.000Z</updated>
+        <summary type="html"><![CDATA[In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct – it's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often]]></summary>
+        <author>
+            <name>Allan Campopiano</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Cycle Through Classes on an HTML Element]]></title>
+        <id>https://css-tricks.com/?p=361200</id>
+        <link href="https://css-tricks.com/cycle-through-classes-html-element/"/>
+        <updated>2022-01-26T19:48:49.000Z</updated>
+        <summary type="html"><![CDATA[Say you have three HTML classes, and a DOM element should only have one of them at a time:
+<div class="state-1"</div<div class="state-2"</div<div class="state-3"</div
+Now your job is to rotate them. That is, cycle through classes …
+How to Cycle Through Classes on an HTML Element originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perception for Self-Driving Cars — Free Deep Learning Course]]></title>
+        <id>61f194d5f2ed6b06db5a5c3f</id>
+        <link href="https://www.freecodecamp.org/news/perception-for-self-driving-cars-deep-learning-course/"/>
+        <updated>2022-01-26T18:45:34.000Z</updated>
+        <summary type="html"><![CDATA[An important use for computer vision and deep learning is self driving cars. Perception and Computer Vision forms about 80% of the work that Self Driving Cars do to drive around. If you want to improve your deep learning skills, this is a great topic to learn about. We just]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Horizontal Line – HR Tag Example]]></title>
+        <id>61f10c21f2ed6b06db5a5942</id>
+        <link href="https://www.freecodecamp.org/news/html-horizontal-line-hr-tag-example/"/>
+        <updated>2022-01-26T18:36:53.000Z</updated>
+        <summary type="html"><![CDATA[You can use the HTML <hr> tag to separate out different topics on a page. We often use this tag when we want to create a thematic break or separate items on an HTML page. In this article, you'll learn how to use this tag in your HTML code. Table]]></summary>
+        <author>
+            <name>Kolade Chris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months]]></title>
+        <id>61e9575c183181284a1922c4</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/"/>
+        <updated>2022-01-26T14:54:43.000Z</updated>
+        <summary type="html"><![CDATA[We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains]]></summary>
+        <author>
+            <name>navaneeth pk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy CSS Borders Using Masks]]></title>
+        <id>https://css-tricks.com/?p=362018</id>
+        <link href="https://css-tricks.com/css-borders-using-masks/"/>
+        <updated>2022-01-26T14:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever tried to make CSS borders in a repeating zig-zag pattern? Like where a colored section of a website ends and another differently colored section begins — not with a straight line, but angled zig zags, rounded humps, …
+Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t Underestimate The Software Administration UX]]></title>
+        <id>https://smashingmagazine.com/2022/01/software-administration-ux/</id>
+        <link href="https://smashingmagazine.com/2022/01/software-administration-ux/"/>
+        <updated>2022-01-26T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article reveals how something as trivial as administration in both software and As-a-service can be either a booster or bottleneck to a company’s productivity and innovation. It also provides several design aspects that UX practitioners should evaluate when designing the administration experience.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Shell Zhu &amp; Adrian Jones)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transparent Taskbar – How to Make a Task Bar Transparent in Windows 10 PC]]></title>
+        <id>61e88961183181284a191dac</id>
+        <link href="https://www.freecodecamp.org/news/transparent-taskbar-how-to-make-a-task-bar-transparent-in-windows-10-pc-2/"/>
+        <updated>2022-01-26T00:11:44.000Z</updated>
+        <summary type="html"><![CDATA[Making your Windows taskbar transparent is a pretty cool thing to do. It looks great, and it's one of the few ways you can personalize your taskbar. Some resources about this topic require you to install different software to accomplish it. But in this tutorial we'll see how to make]]></summary>
+        <author>
+            <name>Ihechikara Vincent Abba</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Do You Handle Component Spacing in a Design System?]]></title>
         <id>https://css-tricks.com/?p=362044</id>
@@ -27,26 +151,6 @@ How Do You Handle Component Spacing in a Design System? originally published on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Code Your React App with TypeScript]]></title>
-        <id>61f050d6f2ed6b06db5a5228</id>
-        <link href="https://www.freecodecamp.org/news/how-to-code-your-react-app-with-typescript/"/>
-        <updated>2022-01-25T19:46:29.000Z</updated>
-        <summary type="html"><![CDATA[React is one of the most popular front-end JavaScript libraries for building user interfaces. Using TypeScript for your React projects can lead to a more robust codebase with less errors. We just published a full course on the freeCodeCamp.org YouTube channel that will teach you how to use React with]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Bootstrap 5]]></title>
-        <id>61e776e0183181284a19149b</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/"/>
-        <updated>2022-01-25T17:10:50.000Z</updated>
-        <summary type="html"><![CDATA[If you are a web developer or a web designer, it is essential for you to have a portfolio website. It lets you provide information about yourself and showcase your best work with your relevant skills and experience. In this blog post, I will discuss some of the benefits of]]></summary>
-        <author>
-            <name>Sampurna Chapagain</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Make a Scroll-Triggered Animation With Basic JavaScript]]></title>
         <id>https://css-tricks.com/?p=360550</id>
         <link href="https://css-tricks.com/scroll-triggered-animation-vanilla-javascript/"/>
@@ -65,46 +169,6 @@ How to Make a Scroll-Triggered Animation With Basic JavaScript originally publis
         <summary type="html"><![CDATA[What’s new in Chrome, Edge, Safari and Firefox? Patrick Brosset breaks it down with the latest features in DevTools across browsers.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Patrick Brosset)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporal Dead Zone (TDZ) and Hoisting in JavaScript – Explained with Examples]]></title>
-        <id>61e92726183181284a191e75</id>
-        <link href="https://www.freecodecamp.org/news/javascript-temporal-dead-zone-and-hoisting-explained/"/>
-        <updated>2022-01-24T23:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Temporal Dead Zone and Hoisting are two essential terms in JavaScript. But understanding how they work can easily confuse you if you don't approach them properly. But don't fret! This article is here to help you get a good grasp of the two terms. So relax, grab your favorite cup]]></summary>
-        <author>
-            <name>Oluwatobi Sofela</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python String.Replace() – Function in Python for Substring Substitution]]></title>
-        <id>61ebdebf011f8933034705af</id>
-        <link href="https://www.freecodecamp.org/news/python-string-replace-function-in-python-for-substring-substitution/"/>
-        <updated>2022-01-24T16:59:25.000Z</updated>
-        <summary type="html"><![CDATA[In this article you'll see how to use Python's .replace() method to perform substring substiution. You'll also see how to perform case-insensitive substring substitution. Let's get started! What does the .replace() Python method do? When using the .replace() Python method, you are able to replace every instance of one specific]]></summary>
-        <author>
-            <name>Dionysia Lemonaki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn AutoCAD with This Free Course]]></title>
-        <id>61f01b62f2ed6b06db5a4e57</id>
-        <link href="https://www.freecodecamp.org/news/learn-autocad-with-this-free-course/"/>
-        <updated>2022-01-24T16:58:00.000Z</updated>
-        <summary type="html"><![CDATA[AutoCAD is a popular computer aided design software used to design and model in 2D and 3D. It is used by used by architects, engineers, designers, real estate developers, artists, and more. We just published a complete university AutoCAD course on the freeCodeCamp.org YouTube channel. Gediminas Kirdeikis developed this course.]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Programming – Free Software Development Courses for Beginners]]></title>
-        <id>61d543e4d2d9de084285c33d</id>
-        <link href="https://www.freecodecamp.org/news/learn-programming-free-software-development-courses-for-beginners/"/>
-        <updated>2022-01-24T16:05:46.000Z</updated>
-        <summary type="html"><![CDATA[In this article, I'm going to show you 140 beginner friendly courses where you can learn computer science and programming for free. The freeCodeCamp courses are completely free and some of them include a free certification that you can add to your LinkedIn or résumé. Note that some of the]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
@@ -141,26 +205,6 @@ Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Make Event Sourcing in Java Easier]]></title>
-        <id>61e3bb40b837d507ba0a3f30</id>
-        <link href="https://www.freecodecamp.org/news/how-to-make-event-sourcing-in-java-easier/"/>
-        <updated>2022-01-21T16:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Event sourcing is about persisting events instead of just the current state. Event sourcing can be helpful for auditing purposes, and to analyze or rebuild previous system states for business analysis. Let's look at it in a bit more detail: every time you make a change to the application state,]]></summary>
-        <author>
-            <name>Bertil Muth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Administrator Has Blocked You From Running This App –  How to Fix on a Windows 10 PC]]></title>
-        <id>61ea53d4fa0e660c3ce47514</id>
-        <link href="https://www.freecodecamp.org/news/an-administrator-has-blocked-you-from-running-this-app-how-to-fix-on-a-windows-10-pc/"/>
-        <updated>2022-01-21T15:51:17.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes when you decide to open an app or file or install or open a program on your Windows 10 PC, you might get the error "An administrator has blocked you from running this app". You get this error because Windows 10 is optimized for protection against malware through Windows]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From Chaos To System In Design Teams]]></title>
         <id>https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/</id>
         <link href="https://smashingmagazine.com/2022/01/from-chaos-to-system-design-teams/"/>
@@ -179,16 +223,6 @@ Using SVG in WordPress (2 Helpful Plugin Recommendations) originally published o
 Context-Aware Web Components Are Easier Than You Think originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>John Rhea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Delete a Disk or Storage Device in Windows Using the GUI and the CLI]]></title>
-        <id>61e95a08183181284a1922e8</id>
-        <link href="https://www.freecodecamp.org/news/how-to-format-storage-disk-in-windows-gui-cli/"/>
-        <updated>2022-01-20T20:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Deleting or formatting a disk or storage device is a common task for most computer users.  If you use the Windows operating system, you would normally do that using the GUI Disk Management application which comes built-in with any Windows operating system. Disk Management (GUI)Sometimes, you might have difficulties]]></summary>
-        <author>
-            <name>Md. Fahim Bin Amin</name>
         </author>
     </entry>
     <entry>
@@ -285,18 +319,6 @@ What the Heck Are npm Commands? originally published on CSS-Tricks. You should g
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Heck Do You Install an Existing npm Project?]]></title>
-        <id>https://css-tricks.com/?p=361337</id>
-        <link href="https://css-tricks.com/how-to-install-an-npm-project/"/>
-        <updated>2022-01-20T15:03:35.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-We’ve gotten a good overview of how npm works and how to use it to install packages and run commands at this point. Now let’s go a little further and see what it looks …
-How the Heck Do You Install an Existing npm Project? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building The Real App With React Query]]></title>
         <id>https://smashingmagazine.com/2022/01/building-real-app-react-query/</id>
         <link href="https://smashingmagazine.com/2022/01/building-real-app-react-query/"/>
@@ -304,19 +326,6 @@ How the Heck Do You Install an Existing npm Project? originally published on CSS
         <summary type="html"><![CDATA[In this article, Georgii Perepecho explains the most common React Query features that you need to be familiar with when creating a real-life application that is stable when testing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Georgii Perepecho)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Serene CSS Dappled Light Effect]]></title>
-        <id>https://css-tricks.com/?p=360899</id>
-        <link href="https://css-tricks.com/css-dappled-light-effect/"/>
-        <updated>2022-01-19T22:46:39.000Z</updated>
-        <summary type="html"><![CDATA[There’s a serene warmth to the early evening sunlight peaking through rustling leaves. Artists use dappled light to create a soft, hypnotic effect.
-Bedford Dwellings by Ron Donoughe (2013)
-We can create the same sort of dappled light effect in …
-A Serene CSS Dappled Light Effect originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Preethi</name>
         </author>
     </entry>
     <entry>
