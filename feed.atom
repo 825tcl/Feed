@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-27T01:07:02.226Z</id>
+    <id>urn:2022-01-28T01:06:57.108Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-27T01:07:02.226Z</updated>
+    <updated>2022-01-28T01:06:57.108Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Git: Switching Unstaged Changes to a New Branch]]></title>
+        <id>https://css-tricks.com/?p=360998</id>
+        <link href="https://css-tricks.com/git-switching-unstaged-changes-to-a-new-branch/"/>
+        <updated>2022-01-27T23:49:45.000Z</updated>
+        <summary type="html"><![CDATA[I’m always on the wrong branch. I’m either on master or main working on something that should be on a fix or feature branch. Or I’m on the last branch I was working on and should have cut a new …
+Git: Switching Unstaged Changes to a New Branch originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Custom Icons to Your Flutter Application]]></title>
+        <id>61f1a334f2ed6b06db5a5cbe</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-icons-to-your-flutter-application/"/>
+        <updated>2022-01-27T20:54:03.000Z</updated>
+        <summary type="html"><![CDATA[When you want to add some style to your application, you likely look for ways to make your User Interface stand out.  Whether it is using a specific font or a different color palate, you want to make the user feel attracted to your UI.  One way to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top JavaScript Concepts to Know Before Learning React]]></title>
+        <id>61eda498011f893303471695</id>
+        <link href="https://www.freecodecamp.org/news/top-javascript-concepts-to-know-before-learning-react/"/>
+        <updated>2022-01-27T20:34:48.000Z</updated>
+        <summary type="html"><![CDATA[If you want to learn React –or any JavaScript framework – you'll first need to understand the fundamental JavaScript methods and concepts. Otherwise it's like a youngster learning to run before learning to walk.  Many developers choose a "learn as you go" approach when learning React. But this often]]></summary>
+        <author>
+            <name>Joel Olawanle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create a Platformer Game with GDevelop]]></title>
+        <id>61f2dedef2ed6b06db5a651f</id>
+        <link href="https://www.freecodecamp.org/news/create-a-platformer-game-with-gdevelop/"/>
+        <updated>2022-01-27T18:20:37.000Z</updated>
+        <summary type="html"><![CDATA[Creating your own game is easier than ever! GDevelop is a beginner-friendly game engine that helps you create 2D games with little to no code. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use GDevelop to create 2D games. Wesley and Max]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn TypeScript – The Ultimate Beginners Guide]]></title>
+        <id>61e1733db837d507ba0a2813</id>
+        <link href="https://www.freecodecamp.org/news/learn-typescript-beginners-guide/"/>
+        <updated>2022-01-27T17:47:36.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript has become increasingly popular over the last few years, and many jobs are now requiring developers to know TypeScript.  But don't be alarmed – if you already know JavaScript, you will be able to pick up TypeScript quickly.  Even if you don't plan on using TypeScript, learning]]></summary>
+        <author>
+            <name>Danny Adams</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demystifying TypeScript Discriminated Unions]]></title>
+        <id>https://css-tricks.com/?p=362091</id>
+        <link href="https://css-tricks.com/typescript-discriminated-unions/"/>
+        <updated>2022-01-27T15:20:57.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a wonderful tool for writing JavaScript that scales. It’s more or less the de facto standard for the web when it comes to large JavaScript projects. As outstanding as it is, there are some tricky pieces for the …
+Demystifying TypeScript Discriminated Unions originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Adam Rackis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build, Ship, & Maintain Design Systems with Backlight]]></title>
+        <id>https://css-tricks.com/?p=361971</id>
+        <link href="https://css-tricks.com/design-systems-with-backlight/"/>
+        <updated>2022-01-27T15:18:25.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Design systems are an entire job these days. Agencies are hired to create them. In-house teams are formed to handle them, shipping them so that other teams can use them and helping ensure they …
+Build, Ship, & Maintain Design Systems with Backlight originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a Full Stack Application With Supabase, React, and Tailwind CSS in Nextjs]]></title>
         <id>61f03606f2ed6b06db5a5067</id>
@@ -50,7 +124,7 @@
         <id>61eb23e4011f893303470169</id>
         <link href="https://www.freecodecamp.org/news/data-viz-from-thought-to-chart/"/>
         <updated>2022-01-26T19:57:11.000Z</updated>
-        <summary type="html"><![CDATA[In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct – it's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often]]></summary>
+        <summary type="html"><![CDATA[In your native tongue, you are not aware of the translation between thought and speech. You think about what you want to say and say it. The pathway from thought to speech feels direct. It's an instantaneous, 1:1 mapping. When it comes to data visualization, however, there are often many]]></summary>
         <author>
             <name>Allan Campopiano</name>
         </author>
@@ -79,26 +153,6 @@ How to Cycle Through Classes on an HTML Element originally published on CSS-Tric
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Horizontal Line – HR Tag Example]]></title>
-        <id>61f10c21f2ed6b06db5a5942</id>
-        <link href="https://www.freecodecamp.org/news/html-horizontal-line-hr-tag-example/"/>
-        <updated>2022-01-26T18:36:53.000Z</updated>
-        <summary type="html"><![CDATA[You can use the HTML <hr> tag to separate out different topics on a page. We often use this tag when we want to create a thematic break or separate items on an HTML page. In this article, you'll learn how to use this tag in your HTML code. Table]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Got 4.5K+ GitHub Stars on Our Open Source Project in 6 Months]]></title>
-        <id>61e9575c183181284a1922c4</id>
-        <link href="https://www.freecodecamp.org/news/how-to-get-more-engagement-with-your-open-source-project/"/>
-        <updated>2022-01-26T14:54:43.000Z</updated>
-        <summary type="html"><![CDATA[We launched our open source project [https://github.com/ToolJet/ToolJet] in June 2021, and since then we've gotten more than 4500 stars for our repository.  Here are the strategies that worked for us. This is not an article about how to just get more stars for your repository. The article instead explains]]></summary>
-        <author>
-            <name>navaneeth pk</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fancy CSS Borders Using Masks]]></title>
         <id>https://css-tricks.com/?p=362018</id>
         <link href="https://css-tricks.com/css-borders-using-masks/"/>
@@ -120,16 +174,6 @@ Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Transparent Taskbar – How to Make a Task Bar Transparent in Windows 10 PC]]></title>
-        <id>61e88961183181284a191dac</id>
-        <link href="https://www.freecodecamp.org/news/transparent-taskbar-how-to-make-a-task-bar-transparent-in-windows-10-pc-2/"/>
-        <updated>2022-01-26T00:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Making your Windows taskbar transparent is a pretty cool thing to do. It looks great, and it's one of the few ways you can personalize your taskbar. Some resources about this topic require you to install different software to accomplish it. But in this tutorial we'll see how to make]]></summary>
-        <author>
-            <name>Ihechikara Vincent Abba</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Do You Handle Component Spacing in a Design System?]]></title>
         <id>https://css-tricks.com/?p=362044</id>
         <link href="https://css-tricks.com/component-spacing-design-system/"/>
@@ -138,16 +182,6 @@ Fancy CSS Borders Using Masks originally published on CSS-Tricks. You should get
 How Do You Handle Component Spacing in a Design System? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC Randomly Turns Off – How to Fix Windows Computer Shutting Down]]></title>
-        <id>61eebd80f2ed6b06db5a37e5</id>
-        <link href="https://www.freecodecamp.org/news/pc-randomly-turns-off-how-to-fix-windows-computer-shutting-down/"/>
-        <updated>2022-01-25T21:30:59.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Windows user, you've probably had your PC randomly shut down. This can be frustrating and negatively impact your productivity as it interrupts important tasks and activities. This random shutdown might be caused by software or hardware issues, or both on some occasions. I have researched 4 ways]]></summary>
-        <author>
-            <name>Kolade Chris</name>
         </author>
     </entry>
     <entry>
@@ -286,39 +320,6 @@ What the Heck is a Package Manager? originally published on CSS-Tricks. You shou
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How the Heck Do You Install npm?]]></title>
-        <id>https://css-tricks.com/?p=361270</id>
-        <link href="https://css-tricks.com/how-to-install-npm-node-nvm/"/>
-        <updated>2022-01-20T15:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Feel like you have a pretty good idea of what a package manager is? We’ve certainly covered a lot of ground getting familiar with all the terms and concepts of package managers, but I’d say it’s high time we actually …
-How the Heck Do You Install npm? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How the Heck Do You Install npm Packages?]]></title>
-        <id>https://css-tricks.com/?p=361300</id>
-        <link href="https://css-tricks.com/how-to-install-npm-packages/"/>
-        <updated>2022-01-20T15:03:49.000Z</updated>
-        <summary type="html"><![CDATA[By now, you’re becoming quite knowledgeable with npm! So far, we’ve broken down the three letters in “npm” to gain a better understand of Node and package managers. In the previous chapter, we even installed Node and npm while …
-How the Heck Do You Install npm Packages? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What the Heck Are npm Commands?]]></title>
-        <id>https://css-tricks.com/?p=361320</id>
-        <link href="https://css-tricks.com/what-the-heck-are-npm-commands/"/>
-        <updated>2022-01-20T15:03:44.000Z</updated>
-        <summary type="html"><![CDATA[npm is, as you now know, a package manager. But like similar, earlier tools that run tasks in the command line, such as Grunt and Gulp, npm can also run tasks—which is perfect for us because now that …
-What the Heck Are npm Commands? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
-        <author>
-            <name>Josh Collinsworth</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building The Real App With React Query]]></title>
         <id>https://smashingmagazine.com/2022/01/building-real-app-react-query/</id>
         <link href="https://smashingmagazine.com/2022/01/building-real-app-react-query/"/>
@@ -450,16 +451,6 @@ Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Price Projects And Manage Scope Creep]]></title>
-        <id>https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/</id>
-        <link href="https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/"/>
-        <updated>2021-12-29T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Paul Boag)</name>
         </author>
     </entry>
 </feed>
